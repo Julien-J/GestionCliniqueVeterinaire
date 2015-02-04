@@ -1,0 +1,2 @@
+c:\users\d1410jouennej\documents\visual studio 2012\Projects\GestionCliniqueVeterinaireSolution\GestionCliniqueVeteriniaire\bin\Debug\GestionCliniqueVeteriniaire.exe.config
+\\10.21.0.254\Ecriture\Groupe Julien Tanguy\GestionCliniqueVeterinaireSolution\GestionCliniqueVeteriniaire\bin\Debug\GestionCliniqueVeteriniaire.exe.config

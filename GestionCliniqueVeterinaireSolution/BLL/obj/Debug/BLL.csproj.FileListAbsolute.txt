@@ -1,0 +1,9 @@
+C:\Users\d1410jouennej\Desktop\projet\GestionCliniqueVeterinaireSolution\BLL\bin\Debug\BLL.dll
+C:\Users\d1410jouennej\Desktop\projet\GestionCliniqueVeterinaireSolution\BLL\bin\Debug\BLL.pdb
+C:\Users\d1410jouennej\Desktop\projet\GestionCliniqueVeterinaireSolution\BLL\bin\Debug\BO.dll
+C:\Users\d1410jouennej\Desktop\projet\GestionCliniqueVeterinaireSolution\BLL\bin\Debug\DAL.dll
+C:\Users\d1410jouennej\Desktop\projet\GestionCliniqueVeterinaireSolution\BLL\bin\Debug\BO.pdb
+C:\Users\d1410jouennej\Desktop\projet\GestionCliniqueVeterinaireSolution\BLL\bin\Debug\DAL.pdb
+C:\Users\d1410jouennej\Desktop\projet\GestionCliniqueVeterinaireSolution\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\d1410jouennej\Desktop\projet\GestionCliniqueVeterinaireSolution\BLL\obj\Debug\BLL.dll
+C:\Users\d1410jouennej\Desktop\projet\GestionCliniqueVeterinaireSolution\BLL\obj\Debug\BLL.pdb
